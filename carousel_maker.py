@@ -174,3 +174,4 @@ if st.button("🚀 Generate Carousel") and hint:
                 st.download_button("📥 Download Carousel PDF", f, file_name="LinkedIn_Carousel.pdf")
         except Exception as e:
             st.error(f"❌ Error: {e}")
+            
