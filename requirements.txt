@@ -1,3 +1,4 @@
 streamlit
-openai
-Pillow
+fpdf
+pillow
+openai>=1.0.0
