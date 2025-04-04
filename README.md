@@ -27,7 +27,7 @@ Generate professional, eye-catching LinkedIn carousel posts with just a **conten
 
 ## 📸 Preview
 
-![Carousel Demo](https://your-screenshot-link.com/carousel-preview.png)
+![Carousel Demo](https://linkedin-carousels.streamlit.app/)
 
 ---
 
@@ -50,9 +50,7 @@ streamlit run carousel_maker.py
 🔐 Azure OpenAI Setup
 Set your credentials in carousel_maker.py:
 
-python
-Copy
-Edit
+
 openai.api_type = "azure"
 openai.api_base = "https://YOUR_RESOURCE_NAME.openai.azure.com/"
 openai.api_version = "2023-03-15-preview"
@@ -70,5 +68,4 @@ deployment_name = "YOUR_DEPLOYMENT_NAME"
 👨‍💻 Author
 Habibur Rahman
 🔗 hrlimon.com
-🐦 @habibsoft# hrlimonnkb-linkedin-carousel
-# hrlimonnkb-linkedin-carousel
+🐦 @habibsoft
